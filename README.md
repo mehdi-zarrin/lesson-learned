@@ -10,5 +10,9 @@ documentation: https://eventsauce.io/docs
 intorduction video: https://youtu.be/xHbP3bshU3U
 A sample application: https://www.youtube.com/watch?v=2Pxq6074uEo
 
+# Event sourcing 
+foundations of Event Sourcing with an example Freek Van der Herten: 
+https://www.youtube.com/watch?v=vLd8BGzFeK8
+
 # Outbox pattern
 an example of implemenation of the outbox pattern with definition: https://www.youtube.com/watch?v=1Vjc4n9HtKM
